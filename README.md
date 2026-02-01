@@ -10,7 +10,7 @@ I'm a **Software Engineering Student** passionate about building efficient backe
 
 * **Languages:** Java, C++, C, SQL.
 * **Core Concepts:** OOP, Design Patterns, Data Structures & Algorithms, Operating Systems, Automata Theory.
-* **Tools & Environment:** Git/GitHub, IntelliJ IDEA, VS Code, **Visual Paradigm (UML)**, Linux (Basic).
+* **Tools & Environment:** Git/GitHub, IntelliJ IDEA, VS Code, Visual Paradigm (UML), Linux (Basic).
 * **Interests:** System Programming, Backend Development, Software Architecture.
 
 ---
